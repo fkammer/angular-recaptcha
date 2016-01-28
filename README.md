@@ -148,7 +148,7 @@ If you want to use a secure token pass it along with the site key as an html att
 ></div>
 ```
 
-Please note that you have to enrypt your token yourself with your private key upfront!
+Please note that you have to encrypt your token yourself with your private key upfront!
 To learn more about secure tokens and how to generate & encrypt them please refer to the [reCAPTCHA Docs](https://developers.google.com/recaptcha/docs/secure_token).
 
 
